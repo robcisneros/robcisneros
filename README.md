@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Robert Cisneros</h1>
 <h3 align="center">A passionate React Developer from Mexico City</h3>
 
-- 🔭  🌱 I’m currently studying **VueJS, Angular, Azure Cloud, MERN, sql**
+- 🔭  🌱 I’m currently studying **VueJS, Azure Cloud, MERN, sql**
 
 - 👯 I’m love working on **React projects** [you can see one of my projects here](https://github.com/robcisneros/multipageAndRoutes)
 
