@@ -4,7 +4,7 @@
 
 - 🔭  🌱 I’m currently studying **VueJS, Azure Cloud, MERN, sql**
 
-- 👯 I’m love working on **React projects** [you can see one of my projects here](https://github.com/robcisneros/multipageAndRoutes)
+- 👯 I’m love working on **React projects** [you can see my projects here](https://robcisneros.netlify.app/)
 
 - 🤝 I’m looking for a job as react developer c:
 
